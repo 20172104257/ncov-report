@@ -1,4 +1,4 @@
-﻿成功完成三次PR提交任务的同学清单
+成功完成三次PR提交任务的同学清单
 
 请参考以下格式在文件末尾追加内容
 
@@ -20,9 +20,13 @@
 * [辰卯](users/5234asdfghjk.md)
 * [xhhhhhhhhhh](users/xhhhhhhhhhh.md)
 * [Andy](users/Andy-Lau-boy.md)
-* [hoggerel](hoggerel.md)
+* [hoggerel](users/YangQi007.md)
 * [2017210424](taamr.md)
 * [he-mixedSon](he-mixedSon.md)
 * [20172104249](users/alia.md)
 * [zqr](users/zhouqingrong.md)
-* [majie](majie.md)
+* [majie](users/1320162752.md)
+* [虾米](users/xiami.md)
+* [star-gazers](users/star-gazers-name)
+* [pppku](users/pppku.md)
+* [rain0908](users/rain0908.md)
